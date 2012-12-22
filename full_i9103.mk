@@ -30,7 +30,7 @@ PRODUCT_LOCALES += hdpi
 
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_i9103
-PRODUCT_DEVICE := i9100
+PRODUCT_DEVICE := i9103
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := GT-I9103
